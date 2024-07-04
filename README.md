@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevBytes-J
+- 👋 Hi, I’m DevBytes-J
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ...Front end Deelopment
 - 📫 How to reach me ...joannabassey19@gmail.com
