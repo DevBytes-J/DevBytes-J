@@ -1,9 +1,7 @@
 - 👋 Hi, I’m DevBytes-J
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ...Front end Deelopment
-- 📫 How to reach me ...joannabassey19@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...joannabassey19@gmail.co
 
 <!---
 DevBytes-J/DevBytes-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
